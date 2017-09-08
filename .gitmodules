@@ -2,3 +2,6 @@
 	path = themes/hugo-theme-nix
 	url = https://github.com/jpeeler/hugo-theme-nix
 	branch = slack-invite-url
+[submodule "public"]
+	path = public
+	url = git@github.com:ColumbiaSC-Tech/ColumbiaSC-Tech.github.io.git
