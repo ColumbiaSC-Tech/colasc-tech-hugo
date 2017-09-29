@@ -5,7 +5,7 @@ theme = "hugo-theme-nix"
 
 [params]
   GithubID = "ColumbiaSC-Tech"
-  SlackURL = "https://join.slack.com/t/columbiasc-tech/shared_invite/MjMyMjc1MDQ0NTgwLTE1MDM3NzU5NzgtOTcyNDljNTA2OA"
+  SlackURL = "https://join.slack.com/t/columbiasc-tech/shared_invite/enQtMjQ5MDIzMjc2MjEyLTI0NzRmMzAyOWI4YjI2M2I1N2FhYTUzN2M2Y2ZlYzlmY2QxNjE1ZjlhNDZlOTZhNzE5NzhkYTM1YTA2Zjc4NDA"
   #GitlabId = "your_gitlab"
   #TwitterID = "your_twitter"
   #CodepenID = "your_codepen"
