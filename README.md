@@ -1,6 +1,7 @@
 ## Contributing
 
-Start with `git clone --recursive`.
+Start an initial clone with `git clone --recursive` or do an update with 
+`git pull --recurse-submodules`.
 
 There are two submodules.
 1) public/ - points to the actual location where github pages are rendered
